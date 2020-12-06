@@ -1,0 +1,50 @@
+Burcun Adı	Giriş Tarihi	Çıkış Tarihi
+
+Koç (Aries)
+21 Mart
+19 Nisan
+
+
+Boğa (Taurus)
+20 Nisan
+20 Mayıs
+
+İkizler (Gemini)
+21 Mayıs
+21 Haziran
+
+Yengeç (Cancer)
+22 Haziran
+22 Temmuz
+
+Aslan (Leo)
+23 Temmuz
+22 Ağustos
+
+Başak (Virgo)
+23 Ağustos
+22 Eylül
+
+Terazi (Libra)
+23 Eylül
+22 Ekim
+
+Akrep (Scorpius)
+23 Ekim
+22 Kasım
+
+Yay (Sagittarius)
+23 Kasım
+21 Aralık
+
+Oğlak (Capricornus)
+22 Aralık
+19 Ocak
+
+Kova (Aquarius)
+20 Ocak
+18 Şubat
+
+Balık (Pisces)
+19 Şubat
+20 Mart

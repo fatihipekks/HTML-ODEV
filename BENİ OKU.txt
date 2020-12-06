@@ -1,0 +1,6 @@
+Bu sitede yazdığım kodlar ilk kod çalışmam ve yazılımı ilk kullandığım yerdir.
+Bundan önce hiç yazılım yazmamıştım dolayısıyla arkadaşlarımdan ve youtube videolarından ufak tefek yardımlar aldım.
+Ama işin sonucunda dediğiniz gibi gerçekten bir şeyler öğrendim.
+Elimden geleni yapmaya çalıştım gezegenleri, galaksimizin özelliklerini ve yıldız takımlarını yazdım.
+İstediğiniz gibi MENÜ,SLOGAN,RESİM ve ANA SAYFA ekledim ve bunlara link koydum.
+[NOT:Gezegenler sayfasında alttaki oktan diğer 4 gezegeni bulabilirsiniz :) ]
